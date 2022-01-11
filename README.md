@@ -1,4 +1,6 @@
 # larave8-vue2
+
+
 本地测试laravel8和vue2的语法
 
 git的提交流程
@@ -14,3 +16,11 @@ git获取
 查看分支
 git brach
 
+
+vue2
+npm run dev
+
+
+
+laravel8
+php artisan serve
