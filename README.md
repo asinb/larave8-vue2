@@ -3,6 +3,19 @@
 
 本地测试laravel8和vue2的语法
 
+git的提交流程
+* git add * 
+* git commit -m "我的提交说明"
+* git push 
+
+
+git获取
+
+* git pull 
+
+查看分支
+git brach
+
 
 vue2
 npm run dev
@@ -20,3 +33,4 @@ php artisan serve
 2、拉取代码
 3、查看有什么不一样，舍去不要的代码
 4、一起提交代码
+git解决冲突的办法：
