@@ -24,3 +24,6 @@ npm run dev
 
 laravel8
 php artisan serve
+
+
+git解决冲突的办法：
